@@ -325,7 +325,7 @@ if(posizionePacman+angoloStart >= rectx2 && posizionePacman+angoloStart <= rectx
     text("Game Over", 30, height/2);
     fill(255, 255, 255);
     textSize(25);
-    text("Prees 'r' for restart!", 180, 350);
+    text("Press 'r' for restart!", 180, 350);
     reset = true;
    }
    }
